@@ -13,7 +13,7 @@ Clone → İndirme
 Fork → Kopyalama
 Private → Gizli proje
 
-## 📁 Klasör ve Dosya Komutları
+## Klasör ve Dosya Komutları
 - **ls** → Bulunduğun klasördeki dosyaları listeler.
 - **ls -a** → Gizli dosyaları gösterir.
 - **ls -l** → Detaylı liste gösterir.
